@@ -1,0 +1,4 @@
+1. menggunakan driver socl 506 
+2. tr final min 3
+3. elco min 4 50v 10.000 uf
+
